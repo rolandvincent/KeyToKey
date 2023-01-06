@@ -14,7 +14,7 @@ Action is the script to run after keys trigger was triggered.
 Script syntax is written in square brackets `[]`, for example `[ENTER]`.
 
 #### String
-To write strings you can use double quotes (") and single quotes ('). You can write strings using escape characters (\), for example 
+To write strings you can use double quotes (") and single quotes ('). You can write strings using escape characters (\\), for example 
 ```python
 "You: I'm \"Cool\"."
 ```
