@@ -1,16 +1,17 @@
-# How to use?
+# Getting Started
+## How to use?
 
 - How to use [Application](docs/KeyToKey.md)
 - How to use [Key Trigger](docs/KeyTrigger.md)
 - How to use [Key Changer](docs/KeyChanger.md)
 
-# Install
+## Install
 
 Download app from release section and extract. No need to Install, just open app normally.
 
-# Q/A
+## Q/A
 
 -
 
-## Support
+#### Support
 Windows 7, 8, 8.1, 10, 11 with 64-bit operating system
