@@ -1,5 +1,9 @@
-# HOW TO USAGE?
+# How to use?
 
+- How to use [Application](docs/KeyToKey.md)
 - How to use [Key Trigger](docs/KeyTrigger.md)
 - How to use [Key Changer](docs/KeyChanger.md)
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
+# Install
+
+Download app from release section and extract. No need to Install, just open app normally.
