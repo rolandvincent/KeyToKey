@@ -7,7 +7,7 @@ To make list, read [Key Trigger](KeyTrigger.md) and [Key Changer](KeyChanger.md)
 
 ## Stop App with shortcut
 
-Go to settings by click ▼ button and click `Settings`. Then assign your shortcut and save. While program start, press your shortcut on your keyboard to stop.
+Go to settings by click `▼` button and click `Settings`. Then assign your shortcut and save. While program start, press your shortcut on your keyboard to stop.
 
 ## Save and Load File
 
