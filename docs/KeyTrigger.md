@@ -12,7 +12,8 @@ Action is the script to run after keys trigger was triggered.
 
 Script syntax is written in square brackets `[]`, for example `[ENTER]`.
 To write strings you can use " and '. You can write strings using escape characters, for example 
-```java
+```c#
+using namespace std;
 "You: \"Hello World\"."
 ```
 
