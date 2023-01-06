@@ -7,3 +7,6 @@
 # Install
 
 Download app from release section and extract. No need to Install, just open app normally.
+
+## Support
+Windows 7, 8, 8.1, 10, 11
